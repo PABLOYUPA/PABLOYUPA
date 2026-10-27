@@ -42,7 +42,7 @@ Estudiante de **Ingeniería de Software** en la Universidad Técnica de Ambato (
 
 ---
 
-### 📫 Contacto
+### Contacto
 
-- 💼 **Telefono:** 0986591858
-- ✉️ **Correo:** pabloyupa03@gmailcom
+- **Telefono:** 0986591858
+- **Correo:** pabloyupa03@gmailcom
